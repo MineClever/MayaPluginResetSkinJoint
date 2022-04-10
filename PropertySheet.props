@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros">
+    <MAYA_LIBS>C:/Program Files/Autodesk/Maya2020/lib</MAYA_LIBS>
+    <MAYA_HEADERS>C:/Program Files/Autodesk/Maya2020/include</MAYA_HEADERS>
+    <MAYA_VERSION>2020</MAYA_VERSION>
+    <MAYA_USER_PLUGIN_DIR>D:\_Code_Here\Maya\UPLAOD\Maya\vaccineKiller\pluginLoader\maya_2020\Plug-ins</MAYA_USER_PLUGIN_DIR>
+  </PropertyGroup>
+  <PropertyGroup>
+    <IncludePath>$(MAYA_HEADERS);$(IncludePath);$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
+    <ExternalIncludePath>$(MAYA_HEADERS);$(IncludePath);$(VC_IncludePath);$(WindowsSDK_IncludePath);</ExternalIncludePath>
+    <ReferencePath>$(MAYA_LIBS);$(VC_ReferencesPath_x86);$(ReferencePath)</ReferencePath>
+    <LibraryPath>$(VC_LibraryPath_x64);$(WindowsSDK_LibraryPath_x64);$(MAYA_LIBS);</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(MAYA_HEADERS);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <ShowProgress>LinkVerbose</ShowProgress>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <BuildMacro Include="MAYA_LIBS">
+      <Value>$(MAYA_LIBS)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="MAYA_HEADERS">
+      <Value>$(MAYA_HEADERS)</Value>
+    </BuildMacro>
+    <BuildMacro Include="MAYA_VERSION">
+      <Value>$(MAYA_VERSION)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="MAYA_USER_PLUGIN_DIR">
+      <Value>$(MAYA_USER_PLUGIN_DIR)</Value>
+    </BuildMacro>
+  </ItemGroup>
+</Project>

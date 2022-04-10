@@ -9,6 +9,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MAYA_ENV", "MAYA_ENV\MAYA_E
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		MAYA_ENV\MAYA_ENV.vcxitems*{8d34ca52-6914-4eb5-8b3c-9b6887c5721b}*SharedItemsImports = 4
 		MAYA_ENV\MAYA_ENV.vcxitems*{fe4842b3-b3b9-4724-9909-68f6e3cc62b2}*SharedItemsImports = 9
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

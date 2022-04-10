@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Maya_2020_Libs">
+      <UniqueIdentifier>{046ff341-eff3-4abd-980d-e74bd7bb62c3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\AdClmHub_1.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\adp_core-6_1.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\adp_data-6_1.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\adp_service_opczip-6_1.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\adp_toolkit-6_1.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\adskIMF.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\avcodec.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\avdevice.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\avformat.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\avutil.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\awBoost_python-1_61.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\awBoost_system-1_61.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\awxml2.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\cg.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\cgGL.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\clew.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\fbxassetscore2.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Foundation.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\icudt.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\icuin.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\icuio.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\icule.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\iculx.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\icutest.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\icutu.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\icuuc.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Image.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\jpeg.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\libeay32.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\libfbxsdk-adsk.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\libmocap.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\MetaData.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\OpenAL32.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\OpenMaya.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\OpenMayaAnim.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\OpenMayaFX.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\OpenMayaRender.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\OpenMayaUI.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\png.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\pyside2-python2.7.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\python27.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5AxBase.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5AxContainer.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5AxServer.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Bluetooth.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Concurrent.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Core.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5DBus.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Gamepad.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Gui.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Help.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Location.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Multimedia.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5MultimediaQuick.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5MultimediaWidgets.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Network.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5NetworkAuth.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Nfc.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5OpenGL.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5OpenGLExtensions.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Positioning.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5PositioningQuick.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5PrintSupport.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Purchasing.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Qml.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Quick.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5QuickControls2.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5QuickParticles.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5QuickShapes.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5QuickTemplates2.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5QuickTest.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5QuickWidgets.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5RemoteObjects.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Scxml.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Sensors.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5SerialBus.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5SerialPort.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Sql.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Svg.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Test.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5TextToSpeech.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5ThemeSupport.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5UiTools.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5WebChannel.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5WebEngine.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5WebEngineCore.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5WebEngineWidgets.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5WebSockets.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5WebView.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Widgets.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5WindowsUIAutomationSupport.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5WinExtras.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5Xml.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt5XmlPatterns.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt53DAnimation.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt53DCore.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt53DExtras.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt53DInput.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt53DLogic.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt53DQuick.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt53DQuickAnimation.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt53DQuickExtras.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt53DQuickInput.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt53DQuickRender.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt53DQuickScene2D.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\Qt53DRender.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\qtfreetype.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\qtlibpng.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\qtmain.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\shiboken2-python2.7.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\ssleay32.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\swscale.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\synColor.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\synHub.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\tbb.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\tbb_preview.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\tbbmalloc.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\tbbmalloc_proxy.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\tbbproxy.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\tiff.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+    <Library Include="C:\Program Files\Autodesk\Maya2020\lib\zlib.lib">
+      <Filter>Maya_2020_Libs</Filter>
+    </Library>
+  </ItemGroup>
+</Project>

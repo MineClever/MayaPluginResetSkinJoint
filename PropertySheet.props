@@ -5,7 +5,7 @@
     <MAYA_LIBS>C:/Program Files/Autodesk/Maya2020/lib</MAYA_LIBS>
     <MAYA_HEADERS>C:/Program Files/Autodesk/Maya2020/include</MAYA_HEADERS>
     <MAYA_VERSION>2020</MAYA_VERSION>
-    <MAYA_USER_PLUGIN_DIR>D:\_Code_Here\Maya\UPLAOD\Maya\vaccineKiller\pluginLoader\maya_2020\Plug-ins</MAYA_USER_PLUGIN_DIR>
+    <MAYA_USER_PLUGIN_DIR>.\maya_2020\Plug-ins</MAYA_USER_PLUGIN_DIR>
   </PropertyGroup>
   <PropertyGroup>
     <IncludePath>$(MAYA_HEADERS);$(IncludePath);$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
